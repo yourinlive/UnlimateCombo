@@ -1,19 +1,18 @@
-`FB PROFESIONAL V3 REPORT`
-`LOGIN COOKIE - AUTO PROXY`
-`SAVE UNLIMITED DATA LOGIN`
-`DATA YOUR_AKUN.TXT USER : PASS`
+`🔥 UNLIMATE COMBO EMAIL 🔥`
+`SAVE UNLIMITED DATA FASTSPEED`
+`DATA SCRAPING IN WEB EMAIL REAL`
 
 `GUNAKAN UNTUK MENUMPAS KEJAHATAN,
 DAN JADILAH PASUKAN SATRIA BAJAHITAM😆`
 
 `TUTORIAL INSTALL TOOLS TERMUX`
 ```
-git clone https://github.com/yourinlive/FBpro.git
-cd FBpro
+git clone https://github.com/yourinlive/UnlimateCombo.git
+cd UnlimateCombo
 pip install cryptography
 pip install pathlib
-python3 FBpro.py (32bit)
-python3 FBpro2.py (64bit)
+python3 unlimate.py (32bit,64bit)
+python3 combo.py (64bit)
 ```
 
 
