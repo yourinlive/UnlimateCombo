@@ -9,7 +9,10 @@ DAN JADILAH PASUKAN SATRIA BAJAHITAM😆`
 ```
 git clone https://github.com/yourinlive/UnlimateCombo.git
 cd UnlimateCombo
+pip install bs4
+pip install requests
 pip install cryptography
+apt install python-cryptography
 pip install pathlib
 python3 unlimate.py (32bit,64bit)
 python3 combo.py (64bit)
